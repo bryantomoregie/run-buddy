@@ -1,4 +1,15 @@
-# MSU-VIRT-BO-FSF-PT-01-2022-U-B
+# Run Buddy 
 
-starting January 27th 2022
+## Purpose 
+A website that offers fitness training services.
+
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by [your name]
 
